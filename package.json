@@ -44,6 +44,10 @@
       "limit": "10 KB"
     }
   ],
+  "repository": {
+    "url": "https://github.com/DaronAdams/jwt-auth",
+    "type": "git"
+  },
   "devDependencies": {
     "@size-limit/preset-small-lib": "^7.0.8",
     "husky": "^8.0.1",
